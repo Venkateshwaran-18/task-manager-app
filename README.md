@@ -1,6 +1,7 @@
 # Task Manager App (React + .NET)
 A full-stack Task Management Application built using React (Frontend) and ASP.NET Core Web API (.NET 10) with JWT Authentication and SQL Server.
-🚀 Features
+
+**🚀 Features**
 🔐 User Authentication (Register & Login)
 🔑 JWT-based Authorization
 👤 User-specific task management
